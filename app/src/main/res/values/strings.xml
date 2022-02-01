@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab07_393Balanin_Database</string>
+    <string name="txt_key">Key</string>
+    <string name="txt_value">Value</string>
+    <string name="b_insert">Insert</string>
+    <string name="b_update">Update</string>
+    <string name="b_select">Select</string>
+    <string name="b_delete">Delete</string>
+</resources>
